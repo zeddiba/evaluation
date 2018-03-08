@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sinchi/nodetest.git"
+    "url": "git+https://github.com/zeddiba/evaluation.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/sinchi/nodetest/issues"
+    "url": "https://github.com/zeddiba/issues"
   },
-  "homepage": "https://github.com/sinchi/nodetest#readme",
+  "homepage": "https://github.com/zeddiba/#readme",
   "dependencies": {
     "body-parser": "^1.18.2",
     "cors": "^2.8.4",
